@@ -11,19 +11,19 @@ This package is available for all sorts of projects via the following package ma
 ### 📦 — NPM:
 
 ```
-npm install @facilitative/github-label-presets@v1.0.2 -D
+npm install @facilitative/github-label-presets@latest -D
 ```
 
 ### 🧶 — Yarn:
 
 ```
-yarn add @facilitative/github-label-presets@v1.0.2 -D
+yarn add @facilitative/github-label-presets@latest -D
 ```
 
 ### 📀 — PNPM:
 
 ```
-pnpm add @facilitative/github-label-presets@v1.0.2 -D
+pnpm add @facilitative/github-label-presets@latest -D
 ```
 
 &nbsp;
@@ -34,24 +34,24 @@ pnpm add @facilitative/github-label-presets@v1.0.2 -D
 
 A few default presets are provided to get you started:
 
--   [all](src/all.json)
--   [cla](src/cla.json)
--   [default](src/default.json) - _Default GitHub Labels_
--   [languages](src/languages.json)
--   [priority](src/priority.json)
--   [status](src/status.json)
--   [type](src/type.json)
+- [all](src/all.json)
+- [cla](src/cla.json)
+- [default](src/default.json) - _Default GitHub Labels_
+- [languages](src/languages.json)
+- [priority](src/priority.json)
+- [status](src/status.json)
+- [type](src/type.json)
 
 ### 📂 Strictly Typed
 
 If you are looking to strictly use one format, consider using these instead (hard clears any other labels):
 
--   [strict-cla](src/strict/cla.json)
--   [strict-default](src/strict/default.json) - _Default GitHub Labels_
--   [languages](src/strict/languages.json)
--   [strict-priority](src/strict/priority.json)
--   [strict-status](src/strict/status.json)
--   [strict-type](src/strict/type.json)
+- [strict-cla](src/strict/cla.json)
+- [strict-default](src/strict/default.json) - _Default GitHub Labels_
+- [languages](src/strict/languages.json)
+- [strict-priority](src/strict/priority.json)
+- [strict-status](src/strict/status.json)
+- [strict-type](src/strict/type.json)
 
 ## 🗞️ With [@financial-times/github-label-sync](https://github.com/financial-times/github-label-sync)
 
