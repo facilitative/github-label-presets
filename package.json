@@ -29,22 +29,18 @@
 		"utils"
 	],
 	"author": {
-		"name": "robloxiandemo",
-		"url": "https://github.com/robloxiandemo"
+		"name": "mirsdemo",
+		"url": "https://github.com/mirsdemo"
 	},
 	"contributors": [
 		{
-			"name": "robloxiandemo",
-			"url": "https://github.com/robloxiandemo"
-		},
-		{
-			"name": "mixerotn",
-			"url": "https://github.com/mixerotn"
+			"name": "mirsdemo",
+			"url": "https://github.com/mirsdemo"
 		}
 	],
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/facilitative/github-label-presets/discussions/categories/q-a"
+		"url": "https://github.com/facilitative/github-label-presets/discussions"
 	},
 	"homepage": "https://github.com/facilitative/github-label-presets/README.md",
 	"publishConfig": {
